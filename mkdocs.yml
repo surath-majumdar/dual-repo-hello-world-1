@@ -1,0 +1,5 @@
+site_name: dual-repo-hello-world-1
+nav:
+  - Home: index.md
+plugins:
+  - techdocs-core
